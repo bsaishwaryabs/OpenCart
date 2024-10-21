@@ -1,0 +1,41 @@
+12:12:04.902 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished
+12:12:13.942 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:12:27.981 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+12:12:28.357 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+12:12:30.719 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
+12:12:30.722 [main] INFO  testCase.TC001_AccountRegistrationTest - providing customer details
+12:12:32.455 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on validating expected message
+12:12:32.507 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished
+12:12:43.364 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:15:45.793 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml"
+12:15:46.320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml
+
+12:15:53.724 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:18:04.006 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml"
+12:18:04.518 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml
+
+12:18:11.573 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:20:25.490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml"
+12:20:26.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml
+
+12:20:33.391 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:22:39.852 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml"
+12:22:40.380 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml
+
+12:22:46.991 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:24:00.276 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml"
+12:24:00.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml
+
+12:24:06.823 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:24:19.783 [main] INFO  testCase.TC002_LoginTest - Starting TC-002 Login test
+12:25:35.606 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml"
+12:25:36.155 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml
+
+12:25:44.427 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:25:56.952 [main] INFO  testCase.TC002_LoginTest - Starting TC-002 Login test

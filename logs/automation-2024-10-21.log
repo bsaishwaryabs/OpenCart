@@ -1,0 +1,53 @@
+12:02:30.566 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+12:02:31.103 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@78fb9a67: 304 ms
+12:02:31.275 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@74e47444: 172 ms
+12:02:31.297 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@18245eb0: 21 ms
+12:02:31.317 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a7471ce: 19 ms
+12:02:31.339 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7813cb11: 21 ms
+12:02:31.352 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3faf2e7d: 12 ms
+12:02:31.352 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4648ce9: 0 ms
+12:04:31.293 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml"
+12:04:31.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\master.xml
+
+12:06:32.578 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\testng.xml"
+12:06:33.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\testng.xml
+
+12:06:42.408 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+12:06:42.908 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+12:06:44.506 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
+12:06:44.514 [main] INFO  testCase.TC001_AccountRegistrationTest - providing customer details
+12:06:46.872 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on validating expected message
+12:06:46.991 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished
+12:06:53.318 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:07:03.080 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+12:07:03.331 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+12:07:04.249 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
+12:07:04.251 [main] INFO  testCase.TC001_AccountRegistrationTest - providing customer details
+12:07:06.435 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on validating expected message
+12:07:06.510 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished
+12:07:13.458 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:07:32.195 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+12:07:32.521 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+12:07:33.385 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
+12:07:33.387 [main] INFO  testCase.TC001_AccountRegistrationTest - providing customer details
+12:07:35.123 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on validating expected message
+12:07:35.213 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished
+12:07:46.772 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:11:32.114 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\testng.xml"
+12:11:32.845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\testng.xml
+
+12:11:41.380 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+12:11:41.786 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+12:11:42.708 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
+12:11:42.714 [main] INFO  testCase.TC001_AccountRegistrationTest - providing customer details
+12:11:45.013 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on validating expected message
+12:11:45.124 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished
+12:11:51.178 [main] INFO  testCase.TC002_LoginTest - ***Starting login page***
+12:12:01.205 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+12:12:01.447 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+12:12:02.310 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
+12:12:02.320 [main] INFO  testCase.TC001_AccountRegistrationTest - providing customer details
+12:12:04.825 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on validating expected message

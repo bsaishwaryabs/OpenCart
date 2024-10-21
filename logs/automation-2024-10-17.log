@@ -1,0 +1,48 @@
+11:10:16.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.024 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.049 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 19 ms.
+11:10:17.084 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+11:10:17.090 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.091 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:10:17.097 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.097 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.098 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.098 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.106 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.106 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.114 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.114 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.115 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.116 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:10:17.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:10:17.135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\AppData\Local\Temp\testng-eclipse-1019241772\testng-customsuite.xml
+
+11:10:17.183 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+11:10:17.639 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@78fb9a67: 100 ms
+11:10:17.805 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@74e47444: 166 ms
+11:10:17.847 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@18245eb0: 41 ms
+11:10:17.886 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a7471ce: 38 ms
+11:10:17.907 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7813cb11: 21 ms
+11:10:17.968 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4648ce9: 60 ms
+11:10:17.969 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@569bf9eb: 0 ms
+11:11:00.661 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\testng.xml"
+11:11:01.243 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya B S\eclipse-workspace\HybridFramework\testng.xml
+
+11:11:16.285 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+11:11:16.861 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+11:11:17.949 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
+11:11:17.964 [main] INFO  testCase.TC001_AccountRegistrationTest - providing customer details
+11:11:21.294 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on validating expected message
+11:11:21.405 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished
+11:11:29.322 [main] INFO  testCase.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest
+11:11:29.648 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account account link
+11:11:30.579 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on account register link
